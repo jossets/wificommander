@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wificommander</string>
+    <string name="T_Wifi">Wifi :</string>
+    <string name="T_na">n/a</string>
+    <string name="T_WifiON">Wifi ON</string>
+    <string name="T_WifiOFF">Wifi OFF</string>
+    <string name="T_Connect">Connect</string>
+    <string name="T_Disconnect">Disconnect</string>
+    <string name="T_SSID">SSID</string>
+    <string name="T_Password">Password</string>
+    <string name="T_AddAP">Add AP</string>
+    <string name="T_DelAP">Del AP</string>
+    <string name="T_ClearAPList">Clear AP List</string>
+</resources>
